@@ -1,4 +1,4 @@
-baseURL = "vercelhugo-git-main-stpetes-projects.vercel.app"
+baseURL = "https://vercel-hugo-eta.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "English Hugo"
 theme = "ananke"

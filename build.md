@@ -6,13 +6,13 @@ git init
 git remote add origin https://github.com/tztechno/vercel_hugo
 git pull
 git add .
-git commit -m "2024-07-19"
+git commit -m "2024-07-20"
 git push -u origin main
 
 git push -f origin main
 
 cd vercel_hugo
-hugo server   ........... error
+
 
 
 

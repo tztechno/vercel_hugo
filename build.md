@@ -2,6 +2,7 @@ git clone https://github.com/tztechno/vercel_hugo.git
 
 git clone https://github.com/tztechno/vercel_hugo.git
 
+cd vercel_hugo
 git init
 git remote add origin https://github.com/tztechno/vercel_hugo
 git pull
